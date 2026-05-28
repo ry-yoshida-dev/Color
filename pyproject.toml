@@ -21,8 +21,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ry-yoshida-private/Color"
-"Bug Tracker" = "https://github.com/ry-yoshida-private/Color/issues"
+Homepage = "https://github.com/ry-yoshida-dev/Color"
+"Bug Tracker" = "https://github.com/ry-yoshida-dev/Color/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
